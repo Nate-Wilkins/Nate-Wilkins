@@ -2,7 +2,7 @@
 
 ![Metrics](https://github.com/Nate-Wilkins/Nate-Wilkins/blob/main/github-metrics.svg)
 
-[![about](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=about)](https://github.com/nate-wilkins/about)
-[![data-accessor](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=data-accessor)](https://github.com/nate-wilkins/data-accessor)
-[![eslint-plugin-jsort](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=eslint-plugin-jsort)](https://github.com/nate-wilkins/eslint-plugin-jsort)
-[![eslint-plugin-bdd](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=eslint-plugin-bdd)](https://github.com/nate-wilkins/eslint-plugin-bdd)
+[![about](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=about&theme=transparent)](https://github.com/nate-wilkins/about)
+[![data-accessor](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=data-accessor&theme=dark)](https://github.com/nate-wilkins/data-accessor)
+[![eslint-plugin-jsort](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=eslint-plugin-jsort&theme=dark)](https://github.com/nate-wilkins/eslint-plugin-jsort)
+[![eslint-plugin-bdd](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=eslint-plugin-bdd&theme=dark)](https://github.com/nate-wilkins/eslint-plugin-bdd)
