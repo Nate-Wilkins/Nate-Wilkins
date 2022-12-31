@@ -4,7 +4,7 @@
 
 [![about](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=about&theme=transparent)](https://github.com/nate-wilkins/about)
 [![data-accessor](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=data-accessor&theme=transparent)](https://github.com/nate-wilkins/data-accessor)
-[![ztabs](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=ztabs&theme=transparent)](https://github.com/nate-wilkins/ztabs)
 [![bookit](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=bookit&theme=transparent)](https://github.com/nate-wilkins/bookit)
+[![ztabs](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=ztabs&theme=transparent)](https://github.com/nate-wilkins/ztabs)
 [![eslint-plugin-jsort](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=eslint-plugin-jsort&theme=transparent)](https://github.com/nate-wilkins/eslint-plugin-jsort)
 [![eslint-plugin-bdd](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=eslint-plugin-bdd&theme=transparent)](https://github.com/nate-wilkins/eslint-plugin-bdd)
