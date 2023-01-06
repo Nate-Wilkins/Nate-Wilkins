@@ -1,13 +1,31 @@
 <img src="./banner.svg" width="100%" height="270px" />
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge)](https://github.com/nate-wilkins)
-[![Twitter](https://img.shields.io/badge/-Twitter-61DAFB?logo=twitter&logoColor=white&color=34dcfc&style=for-the-badge)](https://twitter.com/_natewilkins)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nathanielwilkins/)
-[![500px](https://img.shields.io/badge/-500px-181717?logo=500px&logoColor=white&style=for-the-badge)](https://500px.com/p/Nate-Wilkins?view=photos)
-[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/nate-wilkins)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@nate-wilkins)
-[![npmjs](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)](https://www.npmjs.com/~nate-wilkins)
-[![crates](https://img.shields.io/badge/-crates-000000?logo=npm&logoColor=white&style=for-the-badge)](https://crates.io/users/Nate-Wilkins)
+<p align="center">
+  <a href="https://github.com/nate-wilkins">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/_natewilkins">
+    <img src="https://img.shields.io/badge/-Twitter-61DAFB?logo=twitter&logoColor=white&color=34dcfc&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/nathanielwilkins/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://500px.com/p/Nate-Wilkins?view=photos">
+    <img src="https://img.shields.io/badge/-500px-181717?logo=500px&logoColor=white&style=for-the-badge" alt="500px" />
+  </a>
+  <a href="https://www.reddit.com/user/nate-wilkins">
+    <img src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit" />
+  </a>
+  <a href="https://www.youtube.com/@nate-wilkins">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
+  </a>
+  <a href="https://www.npmjs.com/~nate-wilkins">
+    <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npmjs" />
+  </a>
+  <a href="https://crates.io/users/Nate-Wilkins">
+    <img src="https://img.shields.io/badge/-crates-000000?logo=npm&logoColor=white&style=for-the-badge" alt="crates" />
+  </a>
+</p>
 
 ## <img src="./icon_laptop.png" width="24" /> Environment
 
