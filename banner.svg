@@ -105,11 +105,11 @@
          Photographer.
          Gamer.
     -->
-    <text id="aboutText1" x="150" y="110" class="about" opacity="1" style="fill: white;">Software Engineer</text>
-    <text id="aboutText2" x="150" y="110" class="about" opacity="0" style="fill: white;">Skier/Snowboarder</text>
-    <text id="aboutText3" x="150" y="110" class="about" opacity="0" style="fill: white;">Photographer</text>
-    <text id="aboutText4" x="150" y="110" class="about" opacity="0" style="fill: white;">Gamer</text>
+    <text id="aboutText1" x="110" y="110" class="about" opacity="1" style="fill: white;">Software Engineer</text>
+    <text id="aboutText2" x="110" y="110" class="about" opacity="0" style="fill: white;">Skier/Snowboarder</text>
+    <text id="aboutText3" x="110" y="110" class="about" opacity="0" style="fill: white;">Photographer</text>
+    <text id="aboutText4" x="110" y="110" class="about" opacity="0" style="fill: white;">Gamer</text>
 
     <!-- Name. -->
-    <text x="150" y="180" class="name" style="fill: white;">Nate Wilkins</text>
+    <text x="110" y="180" class="name" style="fill: white;">Nate Wilkins</text>
 </svg>
