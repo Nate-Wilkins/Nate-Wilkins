@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="270" class="">
+    <!-- Debug. -->
+    <!-- <rect width="960" height="270" style="fill:rgb(0,0,255, 0.1);stroke-width:0;stroke:rgb(0,0,0)" /> -->
+    <defs>
+        <filter id="drop-shadow-small" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+            <feOffset dx="1" dy="1" result="offsetblur"/>
+            <feMerge>
+                <feMergeNode/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <filter id="drop-shadow-large" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+            <feOffset dx="2" dy="2" result="offsetblur"/>
+            <feMerge>
+                <feMergeNode/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+
+    <style>
+        .about {
+            // NOTE: Font imports don't work but I like 'Open Sans' here...
+            font-family: 'Segoe UI', Ubuntu, Sans-Serif;
+            font-size: 28px;
+            filter: url(#drop-shadow-small);
+        }
+        .name {
+            font-family: 'Arial';
+            font-size: 72px;
+            filter: url(#drop-shadow-large);
+            font-weight: 700;
+        }
+
+        #aboutText1 {
+            transition: opacity 1s;
+            opacity: 0;
+            animation: fade 16s infinite;
+        }
+        #aboutText2 {
+            transition: opacity 1s;
+            opacity: 0;
+            animation: fade 16s infinite 4s;
+        }
+        #aboutText3 {
+            transition: opacity 1s;
+            opacity: 0;
+            animation: fade 16s infinite 8s;
+        }
+        #aboutText4 {
+            transition: opacity 1s;
+            opacity: 0;
+            animation: fade 16s infinite 12s;
+        }
+        @keyframes fade {
+          0% {
+            opacity: 0;
+          }
+          25% {
+            opacity: 1;
+          }
+          50% {
+            opacity: 0;
+          }
+          75% {
+            opacity: 0;
+          }
+          100% {
+            opacity: 0
+          }
+        }
+    </style>
+
+    <!-- Background. -->
+    <!-- Original: Replicated from Vanza Seita. -->
+    <!-- <polygon points="0,0      0,200     80,0"                          style="fill:#06537f;stroke:#06537f" /> -->
+    <!-- <polygon points="0,260,   110,0     80,0   0,200"                  style="fill:#053d62;stroke:#053d62" /> -->
+    <!-- <polygon points="0,260,   110,0     680,0  572,270     0,270"      style="fill:#053355;stroke:#053355" /> -->
+    <!-- <polygon points="572,270  680,0     960,0  960,30      864,270"    style="fill:#053d62;stroke:#053d62" /> -->
+    <!-- <polygon points="864,270  960,30    960,270"                       style="fill:#06537f;stroke:#06537f" /> -->
+    <!-- Orange. -->
+    <!-- <polygon points="0,0      0,200     80,0"                          style="fill:#F9A844;stroke:#F9A844" /> -->
+    <!-- <polygon points="0,260,   110,0     80,0   0,200"                  style="fill:#F58E3E;stroke:#F58E3E" /> -->
+    <!-- <polygon points="0,260,   110,0     680,0  572,270     0,270"      style="fill:#F17336;stroke:#F17336" /> -->
+    <!-- <polygon points="572,270  680,0     960,0  960,30      864,270"    style="fill:#F58E3E;stroke:#F58E3E" /> -->
+    <!-- <polygon points="864,270  960,30    960,270"                       style="fill:#F9A844;stroke:#F9A844" /> -->
+    <!-- Dark Gray. -->
+    <!-- <polygon points="0,0      0,200     80,0"                          style="fill:#333333;stroke:#333333" /> -->
+    <!-- <polygon points="0,260,   110,0     80,0   0,200"                  style="fill:#4D4D4D;stroke:#4D4D4D" /> -->
+    <!-- <polygon points="0,260,   110,0     680,0  572,270     0,270"      style="fill:#666666;stroke:#666666" /> -->
+    <!-- <polygon points="572,270  680,0     960,0  960,30      864,270"    style="fill:#4D4D4D;stroke:#4D4D4D" /> -->
+    <!-- <polygon points="864,270  960,30    960,270"                       style="fill:#333333;stroke:#333333" /> -->
+    <!-- Green. -->
+    <polygon points="0,0      0,200     80,0"                          style="fill:#339966;stroke:#339966" />
+    <polygon points="0,260,   110,0     80,0   0,200"                  style="fill:#2C8054;stroke:#2C8054" />
+    <polygon points="0,260,   110,0     680,0  572,270     0,270"      style="fill:#266A47;stroke:#266A47" />
+    <polygon points="572,270  680,0     960,0  960,30      864,270"    style="fill:#2C8054;stroke:#2C8054" />
+    <polygon points="864,270  960,30    960,270"                       style="fill:#339966;stroke:#339966" />
+
+    <!-- About Me.
+         Software Engineer.
+         Skier/Snowboarder.
+         Photographer.
+         Gamer.
+    -->
+    <text id="aboutText1" x="150" y="110" class="about" opacity="1" style="fill: white;">Software Engineer</text>
+    <text id="aboutText2" x="150" y="110" class="about" opacity="0" style="fill: white;">Skier/Snowboarder</text>
+    <text id="aboutText3" x="150" y="110" class="about" opacity="0" style="fill: white;">Photographer</text>
+    <text id="aboutText4" x="150" y="110" class="about" opacity="0" style="fill: white;">Gamer</text>
+
+    <!-- Name. -->
+    <text x="150" y="180" class="name" style="fill: white;">Nate Wilkins</text>
+</svg>
