@@ -27,9 +27,13 @@
   </a>
 </p>
 
+<pre>
+PGP: F0EC3EA278223282B26CA4C1AAA34B2FC4B660C6
+</pre>
+
 ## <img src="./icon_laptop.png" width="24" /> Environment
 
-<img src="./badge_nixos.png" height="35" /> <img src="./badge_manjaro.png" height="35" /> <img src="./badge_i3.png" height="35" /> <img src="./badge_polybar.png" height="35" /> <img src="./badge_alacritty.png" height="35" /> <img src="./badge_zsh.png" height="35" /> <img src="./badge_git.png" height="35" /> <img src="./badge_gpg.png" height="35" /> <img src="./badge_chromium.png" height="35" />
+<img src="./badge_nixos.png" height="35" /> <img src="./badge_manjaro.png" height="35" /> <img src="./badge_i3.png" height="35" /> <img src="./badge_polybar.png" height="35" /> <img src="./badge_alacritty.png" height="35" /> <img src="./badge_zsh.png" height="35" /> <img src="./badge_neovim.png" height="35" /> <img src="./badge_git.png" height="35" /> <img src="./badge_gpg.png" height="35" /> <img src="./badge_chromium.png" height="35" />
 
 ## <img src="./icon_skills.webp" width="24" /> Skills
 
