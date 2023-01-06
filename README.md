@@ -11,25 +11,11 @@
 
 ## <img src="./icon_laptop.png" width="24" /> Environment
 
-<img src="./badge_nixos.png" height="35" />
-<img src="./badge_manjaro.png" height="35" />
-<img src="./badge_i3.png" height="35" />
-<img src="./badge_polybar.png" height="35" />
-<img src="./badge_alacritty.png" height="35" />
-<img src="./badge_zsh.png" height="35" />
-<img src="./badge_git.png" height="35" />
-<img src="./badge_gpg.png" height="35" />
-<img src="./badge_chromium.png" height="35" />
+<img src="./badge_nixos.png" height="35" /> <img src="./badge_manjaro.png" height="35" /> <img src="./badge_i3.png" height="35" /> <img src="./badge_polybar.png" height="35" /> <img src="./badge_alacritty.png" height="35" /> <img src="./badge_zsh.png" height="35" /> <img src="./badge_git.png" height="35" /> <img src="./badge_gpg.png" height="35" /> <img src="./badge_chromium.png" height="35" />
 
 ## <img src="./icon_skills.webp" width="24" /> Skills
 
-<img src="./badge_language_rust.png" height="35" />
-<img src="./badge_language_haskell.png" height="35" />
-<img src="./badge_language_elixir.png" height="35" />
-<img src="./badge_language_csharp.png" height="35" />
-<img src="./badge_language_typescript.png" height="35" />
-<img src="./badge_web_react.png" height="35" />
-<img src="./badge_language_python.png" height="35" />
+<img src="./badge_language_rust.png" height="35" /> <img src="./badge_language_haskell.png" height="35" /> <img src="./badge_language_elixir.png" height="35" /> <img src="./badge_language_csharp.png" height="35" /> <img src="./badge_language_typescript.png" height="35" /> <img src="./badge_web_react.png" height="35" /> <img src="./badge_language_python.png" height="35" />
 
 ## <img src="./icon_stats.gif" width="32"> Stats
 
