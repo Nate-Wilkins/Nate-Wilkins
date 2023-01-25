@@ -41,18 +41,18 @@ PGP: F0EC3EA278223282B26CA4C1AAA34B2FC4B660C6
 
 ## <img src="./icon_stats.gif" width="32"> Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nate-wilkins&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nate-wilkins&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=transparent"/>
+<img src="https://github-readme-stats-nate-wilkins.vercel.app/api?username=nate-wilkins&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" /> <img src="https://github-readme-stats-nate-wilkins.vercel.app/api/top-langs/?username=nate-wilkins&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=transparent"/>
 ![Metrics](./github-metrics.svg)
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nate-wilkins&theme=transparent" />
 </p>
 
-[![about](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=about&theme=transparent)](https://github.com/nate-wilkins/about)
-[![data-accessor](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=data-accessor&theme=transparent)](https://github.com/nate-wilkins/data-accessor)
-[![mallardscript](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=mallardscript&theme=transparent)](https://github.com/nate-wilkins/mallardscript)
-[![bookit](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=bookit&theme=transparent)](https://github.com/nate-wilkins/bookit)
-[![ztabs](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=ztabs&theme=transparent)](https://github.com/nate-wilkins/ztabs)
-[![eslint-plugin-jsort](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=eslint-plugin-jsort&theme=transparent)](https://github.com/nate-wilkins/eslint-plugin-jsort)
-[![eslint-plugin-bdd](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=eslint-plugin-bdd&theme=transparent)](https://github.com/nate-wilkins/eslint-plugin-bdd)
-[![pest_duckyscript](https://github-readme-stats.vercel.app/api/pin/?username=nate-wilkins&repo=pest_duckyscript&theme=transparent)](https://github.com/nate-wilkins/pest_duckyscript)
+[![about](https://github-readme-stats-nate-wilkins.vercel.app/api/pin/?username=nate-wilkins&repo=about&theme=transparent)](https://github.com/nate-wilkins/about)
+[![data-accessor](https://github-readme-stats-nate-wilkins.vercel.app/api/pin/?username=nate-wilkins&repo=data-accessor&theme=transparent)](https://github.com/nate-wilkins/data-accessor)
+[![mallardscript](https://github-readme-stats-nate-wilkins.vercel.app/api/pin/?username=nate-wilkins&repo=mallardscript&theme=transparent)](https://github.com/nate-wilkins/mallardscript)
+[![bookit](https://github-readme-stats-nate-wilkins.vercel.app/api/pin/?username=nate-wilkins&repo=bookit&theme=transparent)](https://github.com/nate-wilkins/bookit)
+[![ztabs](https://github-readme-stats-nate-wilkins.vercel.app/api/pin/?username=nate-wilkins&repo=ztabs&theme=transparent)](https://github.com/nate-wilkins/ztabs)
+[![eslint-plugin-jsort](https://github-readme-stats-nate-wilkins.vercel.app/api/pin/?username=nate-wilkins&repo=eslint-plugin-jsort&theme=transparent)](https://github.com/nate-wilkins/eslint-plugin-jsort)
+[![eslint-plugin-bdd](https://github-readme-stats-nate-wilkins.vercel.app/api/pin/?username=nate-wilkins&repo=eslint-plugin-bdd&theme=transparent)](https://github.com/nate-wilkins/eslint-plugin-bdd)
+[![pest_duckyscript](https://github-readme-stats-nate-wilkins.vercel.app/api/pin/?username=nate-wilkins&repo=pest_duckyscript&theme=transparent)](https://github.com/nate-wilkins/pest_duckyscript)
