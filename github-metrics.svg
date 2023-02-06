@@ -22,7 +22,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">quickwit-oss/tantivy</span>
+                                        <span class="repo">sharkdp/hexyl</span>
                                     </div>
                                 </div>
                             </section>
@@ -35,7 +35,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">jonringer/nix-template</span>
+                                        <span class="repo">dalance/procs</span>
                                     </div>
                                 </div>
                             </section>
@@ -48,7 +48,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">haimgel/display-switch</span>
+                                        <span class="repo">MaterializeInc/materialize</span>
                                     </div>
                                 </div>
                             </section>
@@ -61,7 +61,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">orhun/git-cliff</span>
+                                        <span class="repo">tauri-apps/tauri</span>
                                     </div>
                                 </div>
                             </section>
@@ -74,7 +74,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">mgdm/htmlq</span>
+                                        <span class="repo">EmbarkStudios/rust-gpu</span>
                                     </div>
                                 </div>
                             </section>
