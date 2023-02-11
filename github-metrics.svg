@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="454" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="309" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
@@ -14,6 +14,32 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">unicode-rs/unicode-segmentation</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">solidjs/solid</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -67,67 +93,10 @@ Thanks again!</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#3 Lightline integration?</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Nate-Wilkins in <span class="repo">jcdickinson/wpm.nvim</span></div>
-                                    <div class="comment">
-                                        I tried defining a command in lua like so:
-                                        <code class="language-multiline" xml:space="preserve">vim.api.nvim_create_user_command('DisplayWpm',
-  function()
-<span class="token trimmed">(6 more lines were trimmed)</span></code>
-                                        And the lightline configuration looks like this:
-                                        <code class="language-multiline" xml:space="preserve">let g:lightline.component_function = {
-  \ 'gitinfo':         'lightline#hunks#composer',
-<span class="token trimmed">(6 more lines were trimmed)</span></code>
-                                        But I can't get it to recognize the command because I think it's looking for a vimscript function. Doing this does work like I expect:
-                                        <code class="language-multiline" xml:space="preserve">function! DisplayWpm()
-  return "wpm:"
-<span class="token trimmed">(1 more line was trimmed)</span></code>
-                                        But I naively don't know how to call lua functions in here
-                                        <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAPl0lEQVR4Ae3BCZSdZX3A4d/7fttd5s6+ZBImS0M2CQcTI4vEFgSSSLEHlM0WPSibsmjDIYJbixxsEUEi7gYhLXKwaA11YzEIPWAWRcIOIdKsJOPc2Wfu+n3v++/cdIbeXmcmQzbxlOfhLW95y/9risNErsfvTDFdO0wzliNQVGlFghJBBHoFupWwLfDZWn0lXRwGikOk4xtU6SJLrOIUJbwTOAbwmbidAr9V8GvR/LT5k2zhEFAcRHI9blc17xPFRcCpQMAIpXASPjrh4yR8lOuAo9lLBIkMthBhM0VMpoBEhgovifB9Iu5s/hTt7MPSj6ZP1lrnHrijYQPjUBwEu79DwstyOXA10MpeCq8xiTepBre+Crc2gXI1E2UG80TdGcKOAYrtfUgxYliI4ofADU1/z2ZGcf31ojfu6vmNVex8aFX9WYxDcQBEUJ0ruQTFFxAmMcSpjhPMaCTWVo/yXQ4KEcL0AIX/6qSwpxdEGBIpxd1RyHWTVtBBmaUXdf+tUnIPIKI4+qFVDS8wBof9lF7JnOwGfgxcAVS59Umq3jGd5NFH4NUnUY7moFEKJxngH1FHbHoDWCHqzWmEBUrz0WuXsefmh3iWIeecI04xlrsPaAQUqKpXn/rS/YxBsR86vsK5SvE9oErHPBJvbyOYXMfhZDIFss/soNjez17C9/Nw6SUvdn8A5G5Ha4y1DAm16Fm/+F7ddkbh8gaIoLq+yo0ifBpQwdQGkse0oTyHw81JBqTeNYvCji4Gn94Bkb0gpjjKVYVYJD7JZJwwisjlCp5ouQa4ilFoJkgE1bWS20T4DEqpxPwpVC2ajvIc/pSCqQ3UnjwPJxXjpcETF0Tiz9NaEYv5JBMxSkTk4tMv7JjEKDQT1LWS2wQ+qVwtqRNmEp89iTcLJxWj5qS5PDL4MUri8RhKKRzHIQh8hsSM617JKDQTkF7JZQKfVK6S1HEzlT+phjebgbCe3/WchgIS8YARiUSMEo1cfM454lNBsw9dt3I8wtcYklwwXXkt1bwZPfbCSUTGw/d9tNaM8D0Xz3UQaOmv7T6TCppxbL2emNXcCXjxWS0EbfXsSzYHL2wxPLfZkM1xwDp7LJteNGzZZjBGGMsjzyyhJBb3qRSPxyhRwqVUcBlHqpbPizDPqY6TOGoK49mx23LrHXl++URIZNjLdeCUd3lcfVHAjDaHN+Lx30bc/i95nnnJMKImpTjnvR5XfDhGMq4YsT09jS17ZqGUIgh8KsViPgODWUTkPadfkp79i1VNrzDMYQwdNzMJzb0ovNTxM3GSAWN59mXD3y3P8PwrBiu8zgq8usPy7w8WOWaeS1urZiL+dU2BFf+coz0tlCsU4akXDGufCDltsU9VQlHyi6fO4NltbyceD4gFPpWUUhhjiSKjQPX+/qmbH2WYZgza5dNAIphSh9dQxVja05aLrsvQNyCMJZeHj38+w7Zdln15+ImIG7+eR4QxvbrD8rHPZYgMez29dQElQeAzliDmUyLwHspoRtFzG7WiuIQhsTmtjGflXQX6BoR9yeXhllV5xmMM3Pj1HBPxwhbDjx4oUvJa51RKXNdhLJ7rMmweZTSjiITzgbg/qRq3Js5Y+geFnz8aUmneTIf5sx0qPbI+orPHMpZfrQ9pT1vKKQWLF7m0NCoq3ffzIiUD+SQlWinGorRiWBVlXEajuJAhflsD42lPWwpFodyHzwr4zOUxlIJbVuVZ9W8FRhgj7P6DpbFOM5rtuy3lXAdW/kOCJYs9BjLCZZ/N8ORzhhE791hKWmo6eK17ClFk8DyX0URhxLCtlNFU2HM7TcCxytH4k2sZz4w2hzl/4TDi7GU+n70ihtagFKy4NMYH3+czYv5sh7fNchnLuxe5JOLs5Tpw07UJliz2KEklFd/9pyRzZzqMOPd0n5IT5vyaksFMjrEMZLKUiMj9lFFU6FjJeUr4gd9SQ+rEI9mXQlF44smIVFJx7DEuo3nyuYjBrHDCApfAV4wn3S389tmIeTM1M9ocKhWKwrqnDDUpWHiUS0lPppbLvnkng/kqEokYVVUJFMMEBjJZstk8cd1v8mFj6wN3pdIMc6mg4CSGuI1VTETgK055l8d4Fh3tMlFN9YrTT/IYS+ArTj7epVxdspfr3v9FbrjvBrJZKBSKBIFPSaFQxBiLpwpcNfUjelHtY7b6Ll6nqSTMZ4jbkOTPycKZv+OmD1/D9OZtGGPJZvNks3mMsUxv3so/vv0cjk4+pgpF5lPG5Y/NYYhTFePPzdwpL/GNSz/Gi7vexu/3HEnJrNYtzDviRbKbtpLfBmhmA//JMJcy3TdRY6BJORod8/hzpJTlqLbnOartecrpZIxhcyjjUiYMaNCAjnuMyOcdtj/XijYR1nPwa4q0TO4jkSjyZmGNpqMjxUBnAsmCEvCbIqbNTDNCxz1KRGikjEs5SwoNytGM6N7o0Nj1H5TLPQvZxBTCWCtFJ0XkxokcFxUIfiIiSBRJJAtUVeVxXOFAZLMBmUGffMankPUweY0qCp4p4psB/KgHJ7MNL8pTT5l2j61yCjOOTFOiXIcSLVRRxqWcSxILynEoCUOXoGs9JcG8D2H7tmJ6XsbmOlHZ1/Czr+EzugjoZYiXQrxqlHYwTgoQSoyTZIRjiyAhJcqGaCmgoixS7AUboYEEkGB0whDHx6mdhVs3F9O7hajzWaK0A0eyl3I0JVaRoozLOBxtecVbxmy1gdj8S/CmvJsSyXcRdb+M7XsVM7ALm9mNHdiJHXwNm9mNFHqRKMde4QAqHKDE4X85jE8oozQqqEUnWtDJyeiqKTipI9DJyejqaTh1c3CqZ4B2Ken70UlkqxexOywyi/G5lBMGGSLGgIDWlnue3M6m59u4YPCnnH3hHJqbm1GxBrzJJ8LkExmLmAJS6EMKvUixDyn0USI2QsIBKintobwq9nICVFCLDmpQQS3Kr2YirLWsXbuWn/3E44H1vfz8jgjEocRGhhItDFDGpZwwyBCJLIhQctpil4efyHHbqjXcfudPOO644zj//PNZsmQJjuMwFuUEqEQzJJo51Do6Orj//vu599572bVrFyVtrZpZ0zSIsFdk2UsxQBmXMl6BLhOAzYeMWHKix/XxPJmcYIxh3bp1rFu3jtbWVpYuXcrSpUtZuHAhWmsOp3Q6zdq1a3nwwQfZuHEjxhjKnXGyRzmTLVIi0EkZlzL119GXvo0OMbbZZkN03CMewAfP8LnjhwXK7dmzh9WrV7N69WqamppYvHgxxx13HMceeyxtbW0cbLlcjk2bNrFx40Y2bNjA008/jbWW0TgazjvdA+F1kikwbDNlXP7YZqDZ9OfRvkvJhWd63POTArkCo0qn06xZs4Y1a9ZQ0tTUxNy5c5kzZw6zZ8+mra2NlpYWmpubCYKA8XR2dpJOp2lvb+fVV19l8+bNbN68mS1bthBFERPxvpM9JjcoMMKIaCBPiSheoYxLBVE8p4R3h92DuPVVlDTVKi4712fl3UUmIp1Ok06nefzxx6lUXV2N7/vE43FisRj5fB5rLYODg+RyOYrFIgfC9+ATFwSI5XViLKYvyxDr+zxHGZdKwqPA5VH3IBhhxEVn+jz4eMTL2ywHor+/n0PpivN9pjQARhhhujOIFYZsqr2cHspoKsQ8HgVs1J3BFg1iBDGCp4VblgfEA960jpmtufhMDzGCGEGMIEYodvQx7BEqaCpUX0kXsF6spbinFwkFCQUJhZmtii9d5aM1bzqNtYqvXh2gjSChIKEgoSChpbinlxIN91NBMwpR3MWQYnsPRAKRQCQQCactdPiHj/goxZtGKqH49gqflmogEogEIoFICNMD2GIIipcblrOeCi6jUAXuw+erUe9gMurN4iTjlDv3LzVaPL6wOsRYJkQBc+pqOLq+jrl1NdQFASnPo2AM/cWQnYODvNjTx1PpLgbCkImqSSq+udzjbUcoJBQqFXalKVHCXYzCZRRN1zKQvo1vAdfkX0uTnN5GpbNP0Eyq9rjmuxH9WWEs1Z7HebNmcPq0NiYn4uxL0VrWt3fwgy1beaqzi/FMaVR8+xMeM1sVFIVK0WCGqD/DkG5d4DuMwmEMy09jk6P5uM0XAjeIoxwPjIARMAJGmNoAf71I8eJOYXc3/4ejFBfMnslNJ7yD41uaSXkeE+EoxfRUFWdMb2NBYz3Pd/fQVwyptGyh5lsfd5lUDRgBI2AEjIARiCy5nbuQKEIJNzSs4BFG4TCGWx8mu+K9OAreY3I53HgNWMAIGAEjYIQqH/5mkaKlRvH0diEfwtHNLnefnWHxVA+fKpRN8IYpYXJtP+8/upNptZbHtgslk+sVX/yg5rJTFb4SMAJGwAgYASNghGJXN2F/PwhbjeHCW35JyChcxtEU50udWc62xeIxhY4/ENQ1MxoFfGAhLD1Kcd8GzVlHdOAF3QivQfI3iEmhilMgmgRRHSpKIRJHofkfIaKzKGcAcbsQvwO8XaDzaGDJfKiJz6HDN3zgneC7ghSEsdhinkJ3J0NEKS6etIIMY1DsQ8etLFCa9UAQVDXhxqrZl3xRs3OHS43fSyLRgcKwX8RnINPCoK1ixrQQxxH2Rawh17sLsREKvta4nE8wDod9+PLDtF+7jO3AWVGYw3F9tOMzHtcRGuoNyRqPUNWzu6uZfK4WZQMUDlpHoIRyYgOisJZsrpGezCQyton6phQ1DQ71dQat2Sexhnz/HsSEoHi0McGHvvAzLONQTFDnSr4owmdEKeKpFhw/yYEwEWQLGscVEoFwoEQM+b7d2KgIipcDl8XVV9LFPjhM0M0P8qtPLcNR8FdRYRClNI4XY39pDYEveC4HzEZFCv17sCYExcs4nFJ/FR1MgMMb8OWHeHTFMiIFJ5kwpyQq4vhxlNL8qUT5fvL97YgYRLHBhixtWU47E+TwBn35IR7/1FI2oTjdmjAWFQZQ2kG7AYeTjUIKA38gzPcx7Lt9DudNu5p+3gDFfmr/GjN0xLcVLGGIdgP8RB2On+RQsjYkyvYQ5gfYS9GuhCsal/Nj9oPiAHXexocEbgSmMkQ7Hm5QjRtLobTDwSGYYo4w348pZhhWFMUdvs/nai+nh/2kOAi23E5QZ7lEhGuAaQzTbgzHT+C4MbQXoJRmosQUicICNswShVmwlr0UeSz3RIobW5ezjQOkOIjkenQ6xTKluQRYCsQpo7WLcjyUdkFplFLspUCsRaxBTIjYCBFLhWeA7wced1VfSRcHieIQ2fkV4jE4VcGpVvFOpViAEGOihK1oNir4dSj8rHU52zgEFIeJfAevo8BUxzDNwlQNSRRVDBHBAP1KSFthmx9nW+3l9PCWt7zlLYfYfwOnRH+csCeraQAAAABJRU5ErkJggg==" height="16" width="16" alt="" />
-                                        
-                                    </div>
-                                </div>
-                            </section>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                        </svg>
-                                        <div class="content">
-                                            Commented on
-                                            <span class="issue">#971 Test using external command hangs</span>
-                                        </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>opened by glts in <span class="repo">xd009642/tarpaulin</span></div>
-                                        <div class="comment">
-                                            @xd009642 interesting suggestion, thanks!
-When trying it locally
-                                            <code>cargo tarpaulin --engine llvm</code>
-                                            it says I have
-                                            <code>0%</code>
-                                            test coverage across the CLI tool even though I do have quite a few tests.
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                        </div>
                     </section>
                 </div>
             </section>
-            <div id="metrics-end"></div>
         </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
     </foreignObject>
 </svg>
