@@ -37,7 +37,7 @@ PGP: F0EC3EA278223282B26CA4C1AAA34B2FC4B660C6
 
 ## <img src="./icon_skills.webp" width="24" /> Skills
 
-<img src="./badge_language_rust.png" height="35" /> <img src="./badge_language_haskell.png" height="35" /> <img src="./badge_language_elixir.png" height="35" /> <img src="./badge_language_csharp.png" height="35" /> <img src="./badge_language_typescript.png" height="35" /> <img src="./badge_web_react.png" height="35" /> <img src="./badge_language_python.png" height="35" />
+<img src="./badge_language_rust.png" height="35" /> <img src="./badge_language_csharp.png" height="35" /> <img src="./badge_language_typescript.png" height="35" /> <img src="./badge_web_react.png" height="35" /> <img src="./badge_language_python.png" height="35" />
 
 ## <img src="./icon_stats.gif" width="32"> Stats
 
